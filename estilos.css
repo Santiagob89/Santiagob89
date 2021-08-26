@@ -31,3 +31,9 @@ h6{
     color: darkorchid;
     font-size: 30px;
 }
+
+h5{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
